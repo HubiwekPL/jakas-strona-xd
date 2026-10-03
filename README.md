@@ -1,1 +1,1 @@
-# jakas-strona-xd
+Jakis readme pl
